@@ -1,0 +1,16 @@
+#header
+{
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #EEEEEE;
+}
+
+#btu_loc{
+  display:flex;
+  justify-content: flex-end;
+  flex-grow: 1;
+}
