@@ -1,0 +1,5806 @@
+[
+    {
+        "employee_code": "admin",
+        "employee_name": "Administrator",
+        "data": [
+            {
+                "type": "2",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "3",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "4",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "5",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "bphr",
+        "employee_name": "BP HR",
+        "data": [
+            {
+                "type": "2",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "3",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "4",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "5",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "duyendtn",
+        "employee_name": "Dương Thị Ngọc Duyên",
+        "data": [
+            {
+                "type": "2",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "3",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "4",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "5",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "gdtt",
+        "employee_name": "GDTT",
+        "data": [
+            {
+                "type": "2",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "3",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "4",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "5",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "admin",
+        "employee_name": "Admin",
+        "data": [
+            {
+                "type": "2",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "3",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "4",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "5",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "nvtt",
+        "employee_name": "NVTT",
+        "data": [
+            {
+                "type": "2",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "3",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "4",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "5",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "4"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "P/2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10038",
+        "employee_name": "Huỳnh Phú Vinh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "P"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-26T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-28T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "X"
+                    }
+                ]
+            },
+            {
+                "type": "2",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "2"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "1231"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "1"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "1"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "213123"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10239",
+        "employee_name": "Lê Thị Thủy",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "x"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10148",
+        "employee_name": "Nguyễn Hoàng Yến Thảo",
+        "data": [
+            {
+                "type": "2",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "6"
+                    }
+                ]
+            },
+            {
+                "type": "3",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "1"
+                    }
+                ]
+            },
+            {
+                "type": "5",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "1"
+                    }
+                ]
+            },
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "X"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10151",
+        "employee_name": "Cao Thị Kiều Oanh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-04T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-05T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-06T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-07T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-08T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-09T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-10T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-11T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-12T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-13T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-14T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-15T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-16T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-17T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-18T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-19T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-20T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-21T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-22T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-23T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-24T00:00:00",
+                        "val": "x"
+                    },
+                    {
+                        "timesheet_date": "2022-09-25T00:00:00",
+                        "val": "x"
+                    }
+                ]
+            },
+            {
+                "type": "4",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "8"
+                    }
+                ]
+            },
+            {
+                "type": "5",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10155",
+        "employee_name": "Trần Thanh Giang",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-01T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    },
+                    {
+                        "timesheet_date": "2022-09-03T00:00:00",
+                        "val": "X"
+                    },
+                    {
+                        "timesheet_date": "2022-09-27T00:00:00",
+                        "val": "-"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4679",
+        "employee_name": "Bùi Kim Khánh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14826",
+        "employee_name": "Tăng Thành Trung Quốc",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "15048",
+        "employee_name": "Đoàn Thị Thanh Trúc",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4019",
+        "employee_name": "Lưu Văn Hòa",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "7111",
+        "employee_name": "Hàn Hồng Hạnh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "9953",
+        "employee_name": "Trần Thị Phương Lý",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "12386",
+        "employee_name": "Nguyễn Mạnh Duy",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "11379",
+        "employee_name": "Phạm Thị Thu Sương",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "11724",
+        "employee_name": "Phó Kiều Kiều",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "8910",
+        "employee_name": "Lê Nguyễn Nhật Bình",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10425",
+        "employee_name": "Nguyễn Minh Trung",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "9504",
+        "employee_name": "Nguyễn Thị Ngọc Trâm",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10659",
+        "employee_name": "Trần Phạm Quỳnh Như",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10170",
+        "employee_name": "Phạm Thị Thanh Tâm",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10203",
+        "employee_name": "Đặng Thị Thúy Nhi",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10245",
+        "employee_name": "Đỗ Thị Ngọc Giàu",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10246",
+        "employee_name": "Nguyễn Huỳnh Bình Minh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10744",
+        "employee_name": "Y K Xet",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10745",
+        "employee_name": "Trần Thụy Phương Nhi",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10941",
+        "employee_name": "Trần Thị Ngọc Thảo",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "11355",
+        "employee_name": "Nguyễn Thị Thảo Nguyên",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "11786",
+        "employee_name": "Trần Thị Ngọc Ánh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "11805",
+        "employee_name": "Huỳnh Thị Thùy Linh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "11872",
+        "employee_name": "Nguyễn Thị Hoàng Hảo",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "12106",
+        "employee_name": "Phạm Thị Hồng Tươi",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "12748",
+        "employee_name": "Bùi Thị Thanh Vân",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13326",
+        "employee_name": "Nguyễn Thị Để",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13327",
+        "employee_name": "Nguyễn Thị Mộng Thúy",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13328",
+        "employee_name": "Đàng Ngọc Tuệ Uy",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13416",
+        "employee_name": "Nông Thị Ngọc Dung",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13597",
+        "employee_name": "Huỳnh Thị Cẩm Tiên",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13725",
+        "employee_name": "Nguyễn Ngọc Thuận",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13726",
+        "employee_name": "Võ Hoàng Tỷ",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13727",
+        "employee_name": "Lê Thị Thu Hiếu",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13766",
+        "employee_name": "Nguyễn Minh Luân",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13767",
+        "employee_name": "Trần Hửu Lộc",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13768",
+        "employee_name": "Nguyễn Ngọc Huyền Trân",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13837",
+        "employee_name": "Nguyễn Thị Phương Thảo",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13872",
+        "employee_name": "Trương Thu Thảo",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13878",
+        "employee_name": "Đỗ Thị Hồng Ngọc",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13924",
+        "employee_name": "Đỗ Ngọc Bảo Duy",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14009",
+        "employee_name": "Lê Thu Hương",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14010",
+        "employee_name": "Đào Thị Lan Hương",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14044",
+        "employee_name": "Nguyễn Thị Diệu",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14076",
+        "employee_name": "Trần Thị Hạnh Thu",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14160",
+        "employee_name": "Bùi Lê Bảo Châu",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14161",
+        "employee_name": "Quách Phạm Khả Ái",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14265",
+        "employee_name": "Nguyễn Thị Kim Trang",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14266",
+        "employee_name": "Phạm Thị Bích Mai",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14303",
+        "employee_name": "Lê Thị Phương Anh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14486",
+        "employee_name": "Trần Thị Thuỳ Giang",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14516",
+        "employee_name": "Võ Thị Hồng Phấn",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14628",
+        "employee_name": "Phan Thị Linh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14717",
+        "employee_name": "Nguyễn Thị Trang",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "15024",
+        "employee_name": "Trần Thị Mỹ Thanh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4055",
+        "employee_name": "Tạ Thị Minh Đa",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4068",
+        "employee_name": "Nguyễn Thị Cúc",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4251",
+        "employee_name": "Đào Thị Sương",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4596",
+        "employee_name": "Phạm Thị Thủy",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "5984",
+        "employee_name": "Phan Thị Kim Ánh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "6041",
+        "employee_name": "Hàn Thị Thu Hằng",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "6537",
+        "employee_name": "Phạm Lê Thị Thanh Thủy",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "7756",
+        "employee_name": "Nguyễn Thị Trang",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "8371",
+        "employee_name": "Nguyễn Thị Mỹ Trinh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "8727",
+        "employee_name": "Nguyễn Thị Nhung",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "8842",
+        "employee_name": "Nguyễn Lê Hoàng Oanh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "8874",
+        "employee_name": "Cồ Thị Nga",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "9375",
+        "employee_name": "Vũ Thị Hồng Nhung",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "9538",
+        "employee_name": "Đinh Thị Kim Yến",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "9547",
+        "employee_name": "Nguyễn Thị Phượng",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10176",
+        "employee_name": "Trần Thị Hồng Loan",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    },
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "-"
+                    },
+                    {
+                        "timesheet_date": "2022-09-30T00:00:00",
+                        "val": "Ro"
+                    }
+                ]
+            },
+            {
+                "type": "2",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "3",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "4",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            },
+            {
+                "type": "5",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-29T00:00:00",
+                        "val": "4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10524",
+        "employee_name": "Bùi Nguyễn Huỳnh Như",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "10553",
+        "employee_name": "Lê Phương Anh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "12698",
+        "employee_name": "Lê Duy Lĩnh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "12853",
+        "employee_name": "Nguyễn Thị Ngọc Sương",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13173",
+        "employee_name": "Ngô Nguyễn Ngọc Quyên",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13480",
+        "employee_name": "Trần Thị Ngọc Trâm",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13608",
+        "employee_name": "Phạm Hoàng Yến",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13794",
+        "employee_name": "Lê Cao Trang Liễu",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13970",
+        "employee_name": "Nguyễn Thuý Vy",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13975",
+        "employee_name": "Vũ Ngọc Bảo",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13977",
+        "employee_name": "Lê Thị Trường An",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14093",
+        "employee_name": "Võ Nguyễn Ngọc Giàu",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14096",
+        "employee_name": "Lê Thị Ngọc Anh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14230",
+        "employee_name": "Phan Ngọc Trâm Anh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14231",
+        "employee_name": "Lê Thị Thu Trang",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14390",
+        "employee_name": "Lê hồng Thắm",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14438",
+        "employee_name": "Nguyễn Thanh Nhã Uyên",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14568",
+        "employee_name": "Nguyễn Thị Thu Thảo",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14569",
+        "employee_name": "Trần Thị Tuyền",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "15036",
+        "employee_name": "Phan Thị Thanh Huyền",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4039",
+        "employee_name": "Hoàng Thị Bảo Oanh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4106",
+        "employee_name": "Nguyễn Thị Quỳnh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4157",
+        "employee_name": "Phan Ngọc Anh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4256",
+        "employee_name": "Nguyễn Thị Minh Kiều",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4262",
+        "employee_name": "Lê Thị Ngọc Hà",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4445",
+        "employee_name": "Hoàng Thị Dung",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4449",
+        "employee_name": "Hà Thị Diễm Thúy",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4607",
+        "employee_name": "Bùi Thị Thu Thủy",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4642",
+        "employee_name": "Ngô Thị Thu Thảo",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4826",
+        "employee_name": "Nguyễn Thị Trang",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4841",
+        "employee_name": "Nguyễn Thị Như Bình",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4926",
+        "employee_name": "Nguyễn Thị Quỳnh Như",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "5119",
+        "employee_name": "Dương Thị Quỳnh Quyên",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "5335",
+        "employee_name": "Vũ Thị Phương Trâm",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "5375",
+        "employee_name": "Bùi Thị Thùy Dương",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "5376",
+        "employee_name": "Huỳnh Thị Bé Tư",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "5394",
+        "employee_name": "Nguyễn Đỗ Thiên Thanh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "5870",
+        "employee_name": "Nguyễn Thị Thu Huyền",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "6184",
+        "employee_name": "Nguyễn Quốc Tuấn",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "6317",
+        "employee_name": "Trần Thị Mỹ Duyên",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "6509",
+        "employee_name": "Kiều Ngọc Ly",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "6533",
+        "employee_name": "Nguyễn Thị Hồng Đào",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "6977",
+        "employee_name": "Nguyễn Đăng Tâm",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "7005",
+        "employee_name": "Trần Thị Quỳnh Thư",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "7151",
+        "employee_name": "H Lora Mlô",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "7172",
+        "employee_name": "Nguyễn Thị Thu Tâm",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "7286",
+        "employee_name": "Nguyễn Thị Ngọc Thiện",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "7436",
+        "employee_name": "Lê Khánh Linh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "7454",
+        "employee_name": "Lương Tiểu Bình",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "7473",
+        "employee_name": "Nguyễn Đăng Khoa",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "7612",
+        "employee_name": "Nguyễn Thị Mây",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "7640",
+        "employee_name": "Võ Thị Vân",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "7895",
+        "employee_name": "Nguyễn Thị Tuyết Trinh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "8242",
+        "employee_name": "Nguyễn Ngọc Hạ Quyên",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "8335",
+        "employee_name": "Nguyễn Bình",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "8367",
+        "employee_name": "Cao Thị Kim Ngân",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "8850",
+        "employee_name": "Nguyễn Trung Đạt",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "8902",
+        "employee_name": "Lê Thị Ngọc Gấm",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "8993",
+        "employee_name": "Nguyễn Thị Mỹ Tiên",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "9509",
+        "employee_name": "Nguyễn Thị Thúy Sương",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "9598",
+        "employee_name": "Lê Thụy Ngọc Hân",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "9686",
+        "employee_name": "Nguyễn Hồng Nhung",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "9730",
+        "employee_name": "Nguyễn Hoàng Anh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "9836",
+        "employee_name": "Nguyễn Thị Khánh Lê",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "9837",
+        "employee_name": "Nguyễn Hoàng Nam",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "9841",
+        "employee_name": "Bùi Thị Kim Ngọc",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "9897",
+        "employee_name": "Lê Thị Bảo Ngọc",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "9942",
+        "employee_name": "Nguyễn Đình Hoàng Quyên",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4027",
+        "employee_name": "Lê Thị Hằng",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4028",
+        "employee_name": "Phan Thị Thanh Phương ",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4141",
+        "employee_name": "Nguyễn Xuân Hân",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "4277",
+        "employee_name": "Võ Thị Diễm Thư",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "13684",
+        "employee_name": "Trần Thị Thu Trang",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "11834",
+        "employee_name": "Nguyễn Hà Nhật Vy",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "12586",
+        "employee_name": "Bùi Thị Thúy Hường",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "14967",
+        "employee_name": "Lý Thị Kim Hạnh",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "15134",
+        "employee_name": "Phạm Thị Diễm",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "15140",
+        "employee_name": "Trần Thị Thanh Tâm",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "15187",
+        "employee_name": "Nguyễn Thị Thanh Sang",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "15191",
+        "employee_name": "Phan Vĩnh Trí Thành",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "12039",
+        "employee_name": "Võ Thị Thanh Hằng",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "12045",
+        "employee_name": "Hồ Phạm Quỳnh Hoa",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "employee_code": "7078",
+        "employee_name": "Lê Thu Thảo",
+        "data": [
+            {
+                "type": "1",
+                "detail": [
+                    {
+                        "timesheet_date": "2022-09-02T00:00:00",
+                        "val": "L"
+                    }
+                ]
+            }
+        ]
+    }
+]

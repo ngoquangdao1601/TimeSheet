@@ -1,0 +1,23 @@
+.body{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+#header
+    {
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: #EEEEEE;
+    width: 97%;
+    }
+
+    #btu_loc{
+    display:flex;
+    justify-content: flex-end;
+    flex-grow: 1;
+    }
